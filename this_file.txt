@@ -1,1 +1,2 @@
-dfgdfgdfg
+taskkill /f /im msedge.exe /t
+MAIN
