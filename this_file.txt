@@ -1,1 +1,2 @@
-not_analy
+taskkill /f /im notfind.exe /t
+MAIN
